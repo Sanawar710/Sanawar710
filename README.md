@@ -81,7 +81,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=sanawar710&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="230" height="230" alt="GitHub Stats" />
       </td>
       <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawar710&layout=compact&langs_count=6&theme=default&hide_border=true&hide_title=true" width="230" height="230" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawar710&layout=compact&count_private=true" />
       </td>
       <td align="center" style="border: none; padding: 10px;">
         <img src="https://streak-stats.demolab.com?user=sanawar710&theme=default&hide_border=true&hide_title=true" width="230" height="230" alt="GitHub Streak" />
