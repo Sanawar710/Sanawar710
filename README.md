@@ -25,18 +25,8 @@
 
 <h3 align="center">GitHub Stats:</h3>
 
-<p align="center">
-  <table align="center" style="margin: 0 auto; border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sanawar710&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="270" height="270" alt="GitHub Stats" />
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawar710&layout=compact&count_private=true&hide_border=true&hide_title=true" width="270" height="270" alt="Top Used Languages" />
-      </td>
-      <td align="center" style="border: none; padding: 10px;">
-        <img src="https://streak-stats.demolab.com?user=sanawar710&theme=default&hide_border=true&hide_title=true" width="270" height="270" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanawar710&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="270" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawar710&layout=compact&count_private=true&hide_border=true&hide_title=true" width="270" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=sanawar710&theme=default&hide_border=true&hide_title=true" width="270" alt="GitHub Streak" />
+</div>
