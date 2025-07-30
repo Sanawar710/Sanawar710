@@ -19,14 +19,15 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <!-- All logos retained -->
-  <!-- Your existing logos section remains unchanged for brevity -->
+  <!-- Add your icons here -->
 </p>
 
 <h3 align="center">GitHub Stats:</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanawar710&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" width="270" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawar710&layout=compact&count_private=true&hide_border=true&hide_title=true" width="270" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=sanawar710&theme=default&hide_border=true&hide_title=true" width="270" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanawar710&layout=compact&count_private=true&hide_border=true&hide_title=true&v=2" width="270" alt="Top Languages" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanawar710&hide_border=true&theme=default" width="270" alt="GitHub Streak" />
 </div>
