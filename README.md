@@ -50,5 +50,5 @@
 
 <h3 align="center">GitHub Streak</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanawar710&theme=default&hide_border=true" width="350" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sanawar710&theme=default&hide_border=true" width="350" alt="GitHub Streak" />
 </p>
